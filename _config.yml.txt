@@ -1,2 +1,0 @@
-title: Медичний запис
-theme: jekyll-theme-primer
